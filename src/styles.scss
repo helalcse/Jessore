@@ -19,15 +19,15 @@ $dark-overlay: rgba(0,0,0,0.7);
 }
 
 .carousel-img-1{
-    background: url('assets/js.jpeg');
+    background: url('assets/img/js.jpg');
     background-size: cover;
 }
 .carousel-img-2{
-    background: url('assets/js1.jpeg');
+    background: url('assets/img/js1.jpg');
     background-size: cover;
 }
 .carousel-img-3{
-    background: url('assets/js2.jpeg');
+    background: url('assets/img/js2.jpg');
     background-size: cover;
 }
 
@@ -39,7 +39,7 @@ $dark-overlay: rgba(0,0,0,0.7);
 
 #getstarted{
     position: relative;
-    background: url('assets/js3.jpeg');
+    background: url('assets/img/js3.jpg');
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -57,7 +57,7 @@ $dark-overlay: rgba(0,0,0,0.7);
 
 #home-video{
     position: relative;
-    background: url('assets/js5.jpeg');
+    background: url('assets/img/js5.jpg');
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -90,7 +90,14 @@ $dark-overlay: rgba(0,0,0,0.7);
 
 
 #page-header{
-    background: url('assets/js4.jpeg');
+    background: url('assets/img/js4.jpg');
+    background-size: cover;
+    height: 200px;
+    background-attachment: fixed;
+}
+
+#services-page-header{
+    background: url('assets/img/js5.jpg');
     background-size: cover;
     height: 200px;
     background-attachment: fixed;
